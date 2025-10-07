@@ -5,30 +5,40 @@
 			"Cuisine": "Japanese",
 			"Rating": "4.7",
 			"Price": "$$",
+			"City": "San Francisco",
+			"Phone": "(415) 555-0123"
 		},
 		{
 			"Name": "Mama Leone's",
 			"Cuisine": "Italian",
 			"Rating": "4.5",
 			"Price": "$$$",
+			"City": "Oakland",
+			"Phone": "(510) 555-0456"
 		},
 		{
 			"Name": "La Taqueria del Sol",
 			"Cuisine": "Mexican",
 			"Rating": "4.6",
 			"Price": "$",
+			"City": "San Jose",
+			"Phone": "(408) 555-0789"
 		},
 		{
 			"Name": "Spice Route",
 			"Cuisine": "Indian",
 			"Rating": "4.4",
 			"Price": "$$",
+			"City": "Berkeley",
+			"Phone": "(510) 555-0110"
 		},
 		{
 			"Name": "Green Garden",
 			"Cuisine": "Vegan",
 			"Rating": "4.8",
 			"Price": "$$",
+			"City": "San Francisco",
+			"Phone": "(415) 555-0199"
 		}
 	]
 }
